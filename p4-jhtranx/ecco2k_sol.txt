@@ -1,0 +1,51 @@
+afraid: 19
+anything: 19
+arm: 16
+around: 14
+body: 15
+bridge: 18
+bus: 22 31
+c: 1 32
+care: 2 23 33
+chop: 15 16
+chorus: 9
+crush: 1 20 21 24 25 26 27 32
+crushin: 22
+crushing: 31
+dark: 13
+day: 6 37
+dont: 2 14 23 33
+everywhere: 4 35
+feels: 10
+friend: 28
+fuck: 3 5 34 36
+gets: 7 38
+go: 4 6 14 35 37
+god: 3 34
+gotta: 6 37
+hard: 12
+im: 12 19
+look: 4 11 35
+looking: 5 36
+much: 7 38
+oh: 3 34
+parts: 15
+peroxide: 13
+robbed: 14
+rocks: 22 31
+same: 6 37
+scared: 12
+something: 10
+stare: 2 23 33
+stay: 6 13 37
+stop: 22 31
+strong: 6 37
+take: 16
+true: 28
+trust: 7 38
+verse: 30
+walk: 11
+watch: 16
+way: 11
+worse: 7 38
+wrong: 4 10 35
